@@ -1,0 +1,14 @@
+= Apwide for JIRA + Jenkins
+
+https://jenkins.io/[Jenkins] plugin to automate https://marketplace.atlassian.com/plugins/com.holydev.env.plugin.jira-holydev-env-plugin/server/overview[Test Environment and Release Management in JIRA]
+
+https://apwide.com/documentation[Apwide documentation]
+
+
+== Maintainers
+
+* https://github.com/apwide[Apwide]
+
+== Disclaimer
+
+Developed by https://github.com/apwide[Apwide], this plugin is an extension of https://wiki.jenkins-ci.org/display/JENKINS/JIRA+Plugin[Jenkins JIRA Plugin]
