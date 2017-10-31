@@ -1,4 +1,4 @@
-Jenkins Apwide for Jira Plugin
+Jenkins Apwide Plugin
 ==============================
 
 Extension of Jenkins JIRA Plugin:
